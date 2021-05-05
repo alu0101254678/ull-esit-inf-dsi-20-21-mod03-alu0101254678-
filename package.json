@@ -23,6 +23,8 @@
   "devDependencies": {
     "@types/chai": "^4.2.17",
     "@types/mocha": "^8.2.2",
+    "@types/node": "^15.0.1",
+    "@types/request": "^2.48.5",
     "@typescript-eslint/eslint-plugin": "^4.22.1",
     "@typescript-eslint/parser": "^4.22.1",
     "chai": "^4.3.4",
@@ -30,6 +32,7 @@
     "eslint-config-google": "^0.14.0",
     "mocha": "^8.3.2",
     "nyc": "^15.1.0",
+    "request": "^2.88.2",
     "ts-node": "^9.1.1",
     "tsc-watch": "^4.2.9",
     "typedoc": "^0.20.36",
